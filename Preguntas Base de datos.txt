@@ -1,0 +1,20 @@
+Define con tus propias palabras ¿Qué es una base de datos?.
+
+  Es un espacio en un dispositivo de almacenamiento no volatil que permite guardar
+  informacion para que esta sea inmune al paso del tiempo.
+
+¿Qué paradigmas de base de datos conoces?
+
+  Llave- valor, en un documento, estructurada, en graph, en search engine, multi-modelo
+
+¿En qué consiste cada paradigma y cuáles son sus ventajas?
+
+  1.  Llave-valor, los registros solo tienen una llave y tienen un valor asignado, es muy ligero.
+  2.  Documento, permite almacenar mas informacion que puede tener mas de una propiedad para cada
+      registro o valor
+  3.  Estructurada, dentro de schemas la informacion esta estructurada y permite tener relaciones
+      a traves de foreign & primary keys
+  4.  Graphs, en donde la informacion esta altamente relacionada.
+  5.  Search Engine, la informacion tiene diccionarios que permite buscar rapidamente 
+      mediante palabras claves.  
+  6.  Multi modelo, permite tener bases de datos con muchos paradigmas diferentes.
